@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/rss-test/node_modules
 /.pnp
 .pnp.js
 
